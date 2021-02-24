@@ -1,7 +1,18 @@
 {
   "settings": {
-    gdrive: true, // enable Google Drive integration
-    gdriveClientId: "19046086903-60lpkjqati1fm574ofpocl5kh2f03aj0.apps.googleusercontent.com",
-    gdriveClientSecret: "S1P8GUOwacjfwFJEapA2TL5f"
+    "colorfulIcons": true,
+    "hideEmptyFields": true,
+
+    "canCreate": false,
+    "canOpenDemo": false,
+    "canOpenSettings": false,
+    "canImportXml": false,
+
+    "gdrive": true,
+    "gdriveClientId": "19046086903-60lpkjqati1fm574ofpocl5kh2f03aj0.apps.googleusercontent.com",
+	"gdriveClientSecret": "S1P8GUOwacjfwFJEapA2TL5f",
+    "dropbox": false,
+    "webdav": false,
+    "onedrive": false
   }
 }
